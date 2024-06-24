@@ -258,9 +258,11 @@ body {
     margin-top: 44px;
   }
   
-  @media only screen and (max-width: 1300px) {
+  @media only screen and (max-width: 1347px) {
     .fa-burger {
       display: block !important;
+      margin-right: 50px;
+      font-size: 47px;
     }
   
     .right-side {
