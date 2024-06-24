@@ -258,18 +258,24 @@ body {
     margin-top: 44px;
   }
   
-  @media only screen and (max-width: 1347px) {
-    .fa-burger {
+  .fa-bars{
+    display: none !important;
+  }
+  
+
+  @media only screen and (max-width: 1450px) {
+    .fa-bars {
       display: block !important;
       margin-right: 50px;
       font-size: 47px;
+      margin-left: 10px;
     }
   
     .right-side {
       display: none;
     }
   }
-  
+
   
   li{
       text-align: center;
@@ -380,6 +386,7 @@ body {
     }
   }
 
-  .fa-burger{
+  .fa-bar{
     margin-right: 70px;
+    color: white;
   }
