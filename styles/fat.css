@@ -66,3 +66,22 @@ a{
     width: 33px;
     height: 34px;
 }
+
+
+.fa-bars{
+    display: none !important;
+  }
+  
+
+  @media only screen and (max-width: 1450px) {
+    .fa-bars {
+      display: block !important;
+      margin-right: 50px;
+      font-size: 47px;
+      margin-left: 10px;
+    }
+  
+    .right-side {
+      display: none;
+    }
+  }

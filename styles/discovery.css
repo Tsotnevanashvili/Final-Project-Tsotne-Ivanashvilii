@@ -3,250 +3,104 @@ body {
     background-color: #dfdfdf;
     margin: 0;
     padding: 0;
-}
-
-.logo {
+  }
+  
+  .logo {
     width: 125px;
     height: 100px;
-    display: inline;
-}
-
-.chamonatvali {
+  }
+  
+  .chamonatvali {
     display: flex;
-    margin-left: -8px;
-    margin-top: -42px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
     background-color: black;
-    padding-left: 50px;
-    width: -webkit-fill-available;
-    margin-bottom: 69px;
-}
-
-.HOMME{
-    margin-left: 82px;
-    margin-top: 61px;
+    height: 120px;
+  }
+  
+  .left-side {
+    display: flex;
+    align-items: center;
+  }
+  
+  .right-side {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-right: 50px;
+  }
+  
+  .fa-bars {
     color: white;
-}
-
-.HOME{
-    margin-left: 82px;
-    margin-top: 61px;
+    font-size: 30px;
+    display: none !important;
+  }
+  
+  .HOMME {
     color: white;
-}
-
-.background{
-background-image: url(../images/background.jpg);
-height: 558px;
-margin-top: -4px;
-background-size: cover;
-}
-
-.ttext{
-    text-align: center;
-    font-size: 79px;
+  }
+  
+  .HOME {
     color: white;
-    padding-top: 238px;
-    margin-top: 5px;
-}
-
-.ttext2{
-    text-align: center;
-    font-size: 25px;
+  }
+  
+  .log {
     color: white;
-    margin-top: 5px;
-}
-
-#gsearch {
-    margin-left: 325px;
-    width: 477px;
-    height: 34px;
-    margin-top: 8px;
-}
-
-.login {
-    width: 35px;
-    height: 40px;
-    padding-left: 414px;
-}
-
-.log {
-    color: white;
-    margin-left: 79px;
-    margin-top: 55px;
-}
-
-.Geo {
+  }
+  
+  .Geo {
     width: 40px;
     height: 28px;
     background-color: white;
-    margin-left: -157px;
-    margin-top: 30px;
-}
-
-.gel {
-    margin-top: 60px;
-    margin-left: -37px;
+  }
+  
+  .gel {
     color: white;
-}
-
-a {
-    margin-left: 70px;
+  }
+  
+  a {
+    margin-left: 30px;
     text-decoration: none;
-    color: black;
-}
+    color: white;
+  }
 
-#submit {
+  
+  #gsearch {
+    width: 477px;
+    height: 34px;
+    margin-left: 20px;
+    margin-top: 12px;
+  }
+
+  #submit {
     width: 33px;
     height: 34px;
-}
+    margin-top: 12px;
+  }
+  @media only screen and (max-width: 1450px) {
+    .fa-bars {
+      display: block !important;
+      margin-right: 50px;
+      font-size: 47px;
+      margin-left: 10px;
+    }
+  
+    .right-side {
+      display: none;
+    }
+  }
 
-.one {
-    text-align: center;
-    font-size: 52px;
-}
-
-.cho {
-    text-align: center;
-    color: black;
-    font-size: 17px;
-    margin-top: -8px;
-}
-
-.men,
-.women,
-.muscle,
-.fat,
-.abs,
-.beginner {
-    width: 265px;
-    height: 187px;
-    display: inline-block;
-}
-
-.men {
-    margin-left: 10px;
-}
-
-.women,
-.muscle,
-.abs,
-.beginner {
-    margin-left: 60px;
-}
-
-.workouts {
-    display: flex;
-    width: 1190px;
-    margin-left: 144px;
-}
-
-.text {
-    display: flex;
-    margin-left: 221px;
-    margin-top: 10px;
-}
-
-.work {
-    margin-left: 253px;
-    text-decoration: none;
-}
-
-.muc {
-    margin-left: 256px;
-    text-decoration: none;
-}
-
-.workouts2 {
-    margin-left: 153px;
-    margin-top: 80px;
-}
-
-.column {
-    display: flex;
-    margin-left: 316px;
-}
-
-.ab {
-    margin-left: 322px;
-}
-
-.beg {
-    margin-left: 278px;
-}
-
-.chamonatvali2 {
-    display: flex;
-    margin-left: -8px;
-    margin-top: 54px;
-    background-color: black;
-    padding-left: 115px;
-    margin-bottom: -8px;
-    height: 178px;
-    width: -webkit-fill-available;
-}
-
-.cs {
-    color: white;
-    margin-left: 74px;
-    margin-top: 31px;
-    font-size: 18px;
-}
-
-.columnn,
-.columnn2,
-.columnn3 {
-    width: 110px;
-    color: white;
-    font-size: 10px;
-    margin-top: 56px;
-}
-
-.columnn {
-    margin-left: -151px;
-}
-
-.columnn2 {
-    margin-left: -52px;
-}
-
-.columnn3 {
-    margin-left: -116px;
-    margin-top: -67px;
-}
-
-.chamonatvali3 {
-    display: flex;
-    margin-left: 398px;
-    margin-top: -173px;
-}
-
-.cs2 {
-    color: white;
-    font-size: 18px;
-    margin-left: 149px;
-    margin-top: 31px;
-}
-
-.chamonatvali4 {
-    display: flex;
-    color: white;
-}
-
-.cs3 {
-    color: white;
-    font-size: 18px;
-    margin-left: 730px;
-    margin-top: -88px;
-}
-
-.logo4 {
-    width: 125px;
-    height: 100px;
-    display: inline;
-    margin-top: 44px;
-}
-
-h1{
-    text-align: center;
-    margin-bottom: 94px;
-    font-size: 47px;
+.background{
+  background-image: url(../images/wom.jpg);
+  height: 558px;
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  font-size: 53px;
+  margin: 0
 }

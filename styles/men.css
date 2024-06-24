@@ -251,13 +251,17 @@ body {
     display: inline;
     margin-top: 44px;
   }
-  
-  @media only screen and (max-width: 1500px) {
-    .fa-burger {
+
+  @media only screen and (max-width: 1385px) {
+    .fa-bars {
       display: block !important;
+      margin-right: 50px;
+      font-size: 47px;
+      margin-left: 10px;
+      color: white;
     }
   
-    .left-side {
+    .right-side {
       display: none;
     }
   }
