@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #dfdfdf;
+}
+.login-box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 440px;
+    height: 480px;
+    padding: 30px;
+    margin-left: 500px;
+    margin-bottom: 170px;
+    margin-top: 140px;
+}
+.login-header{
+    text-align: center;
+    margin: 20px 0 40px 0;
+}
+.login-header header{
+    color: #333;
+    font-size: 30px;
+    font-weight: 600;
+}
+.input-box .input-field{
+    width: 100%;
+    height: 60px;
+    font-size: 17px;
+    padding: 0 25px;
+    margin-bottom: 15px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0px 5px 10px 1px rgba(0,0,0, 0.05);
+    outline: none;
+    transition: .3s;
+}
+::placeholder{
+    font-weight: 500;
+    color: #222;
+}
+.input-field:focus{
+    width: 105%;
+}
+.forgot{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+section{
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #555;
+}
+#check{
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+section a{
+    color: #555;
+}
+.input-submit{
+    position: relative;
+}
+.submit-btn{
+    width: 100%;
+    height: 60px;
+    background: #222;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .3s;
+}
+.input-submit label{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    color: #fff;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+.submit-btn:hover{
+    background: #000;
+    transform: scale(1.05,1);
+}
+.sign-up-link{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.sign-up-link a{
+    color: #000;
+    font-weight: 600;
+}
+
+.chamonatvali2{
+    display: flex;
+    margin-left: -8px;
+    margin-top: 54px;
+    background-color: black;
+    padding-left: 115px;
+    margin-bottom: -8px;
+    height: 178px;
+    width: -webkit-fill-available;
+}
+
+.cs{
+    color: white;
+    margin-left: 74px;
+    margin-top: 31px;
+    font-size: 18px;
+}
+
+.columnn{
+    width: 110px;
+    color: white;
+    font-size: 10px;
+    margin-top: 56px;
+    margin-left: -151px;
+}
+
+.chamonatvali3{
+    display: flex;
+    margin-left: 398px;
+    margin-top: -173px;
+}
+
+.cs2{
+    color: white;
+    font-size: 18px;
+    margin-left: 149px;
+    margin-top: 31px;
+}
+
+.columnn2{
+    width: 110px;
+    color: white;
+    font-size: 10px;
+    margin-top: 56px;
+    margin-left: -52px;
+}
+
+.chamonatvali4{
+    display: flex;
+    color: white;
+}
+
+.cs3{
+    color: white;
+    font-size: 18px;
+    margin-left: 697px;
+    margin-top: -63px;
+}
+
+.columnn3{
+    width: 110px;
+    color: white;
+    font-size: 10px;
+}
+
+.logo4{
+    width: 125px;
+    height: 100px;
+    display: inline;
+    margin-top: 44px;
+}
+
+.h3{
+    margin-left: -118px;
+    margin-top: -30px;
+}
+
+.logo{
+    width: 125px;
+    height: 100px;
+    display: inline;
+}
+.chamonatvali{
+    display: flex;
+    margin-left: -81px;
+    margin-top: -42px;
+    background-color: black;
+    padding-left: 115px;
+    width: -webkit-fill-available;
+}
+
+h4{
+    margin-left: 82px;
+    margin-top: 61px;
+    color: white;
+}
+
+.back{
+    margin-left: -8px;
+    width: 1527px;
+}
+
+#gsearch{
+    margin-left: 325px;
+    width: 477px;
+    height: 34px;
+    margin-top: 8px;
+}
+
+.login{
+    width: 35px;
+    height: 40px;
+    padding-left: 515px;
+    margin-top: 18px;
+    align-items: end;
+}
+
+.log{
+    margin-left: 79px;
+    color: white;
+    margin-top: 55px;
+}
+
+.Geo{
+    width: 40px;
+    height: 28px;
+    background-color: white;
+    margin-left: 527px;
+    margin-top: 27px;
+}
+
+.gel{
+    margin-top: 60px;
+    margin-left: -37px;
+    color: white;
+}
+
+button{
+    width: 34px;
+    height: 34px;
+}
+
+.HOMME{
+    margin-left: 82px;
+    margin-top: 61px;
+    color: white;
+}
+
+.HOME{
+    margin-left: 82px;
+    margin-top: 61px;
+    color: white;
+}
+
+a {
+    margin-left: 70px;
+    text-decoration: none;
+    color: black;
+}

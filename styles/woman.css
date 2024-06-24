@@ -1,0 +1,181 @@
+body {
+    font-family: Helvetica;
+    background-color: #dfdfdf;
+}
+
+.logo {
+    width: 125px;
+    height: 100px;
+    display: inline;
+    margin-left: -69px;
+}
+
+.chamonatvali {
+    display: flex;
+    margin-left: -8px;
+    margin-top: -42px;
+    background-color: black;
+    width: -webkit-fill-available;
+    padding-left: 115px;
+}
+
+h4 {
+    margin-left: 82px;
+    margin-top: 61px;
+    color: white;
+}
+
+#gsearch {
+    margin-left: 325px;
+    width: 477px;
+    height: 34px;
+}
+
+.login {
+    width: 35px;
+    height: 40px;
+    padding-left: 515px;
+    margin-top: 18px;
+    align-items: end;
+}
+
+.log {
+    margin-left: 73px;
+    color: white;
+    margin-top: 55px;
+}
+
+.Geo {
+    width: 40px;
+    height: 28px;
+    background-color: white;
+    margin-left: -154px;
+    margin-top: 30px;
+}
+
+.gel {
+    margin-top: 60px;
+    margin-left: -37px;
+    color: white;
+}
+
+a {
+    margin-left: 70px;
+}
+
+#submit {
+    width: 33px;
+    height: 34px;
+}
+
+.chamonatvali2 {
+    display: flex;
+    margin-left: -8px;
+    margin-top: 54px;
+    background-color: black;
+    padding-left: 115px;
+    margin-bottom: -8px;
+    height: 178px;
+    width: -webkit-fill-available;
+}
+
+.cs {
+    color: white;
+    margin-left: 74px;
+    margin-top: 31px;
+    font-size: 18px;
+}
+
+.columnn {
+    width: 110px;
+    color: white;
+    font-size: 10px;
+    margin-top: 56px;
+    margin-left: -151px;
+}
+
+.chamonatvali3 {
+    display: flex;
+    margin-left: 398px;
+    margin-top: -173px;
+}
+
+.cs2 {
+    color: white;
+    font-size: 18px;
+    margin-left: 149px;
+    margin-top: 31px;
+}
+
+.columnn2 {
+    width: 110px;
+    color: white;
+    font-size: 10px;
+    margin-top: 56px;
+    margin-left: -52px;
+}
+
+.chamonatvali4 {
+    display: flex;
+    color: white;
+}
+
+.cs3 {
+    color: white;
+    font-size: 18px;
+    margin-left: 730px;
+    margin-top: -88px;
+}
+
+.columnn3 {
+    width: 110px;
+    color: white;
+    font-size: 10px;
+    margin-left: -116px;
+    margin-top: -67px;
+}
+
+.logo4 {
+    width: 125px;
+    height: 100px;
+    display: inline;
+    margin-top: 44px;
+}
+
+.day {
+    font-size: 50px;
+}
+
+.wom {
+    height: 600px;
+    width: 1300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 37px;
+    text-align: center;
+}
+
+.women {
+    margin-left: 273px;
+    width: 942px;
+    font-size: 18px;
+    color: #333;
+}
+
+.cat{
+    display: inline-block;
+    display: inline-block;
+    margin-left: 160px;
+}
+
+.category{
+    display: inline-block;
+    background-color: #aaaaaa9e;
+    border-radius: 10px;
+    width: 169px;
+    padding-left: 18px;
+}

@@ -1,0 +1,68 @@
+body{
+    font-family: Helvetica;
+    background-color: #dfdfdf;
+}
+
+.logo{
+    width: 125px;
+    height: 100px;
+    display: inline;
+    margin-left: -69px;
+}
+.chamonatvali{
+    display: flex;
+    margin-left: -8px;
+    margin-top: -42px;
+    background-color: black;
+    padding-left: 115px;
+    width: -webkit-fill-available;
+}
+
+h4{
+    margin-left: 82px;
+    margin-top: 61px;
+    color: white;
+}
+
+#gsearch{
+    margin-left: 325px;
+    width: 477px;
+    height: 34px;
+}
+
+.login{
+    width: 35px;
+    height: 40px;
+    padding-left: 515px;
+    margin-top: 18px;
+    align-items: end;
+}
+
+.log{
+    margin-left: 79px;
+    color: white;
+    margin-top: 55px;
+}
+
+.Geo{
+    width: 40px;
+    height: 28px;
+    background-color: white;
+    margin-left: -154px;
+    margin-top: 30px;
+}
+
+.gel{
+    margin-top: 60px;
+    margin-left: -37px;
+    color: white;
+}
+
+a{
+    margin-left: 70px;
+}
+
+#submit{
+    width: 33px;
+    height: 34px;
+}

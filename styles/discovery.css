@@ -1,0 +1,252 @@
+body {
+    font-family: Helvetica;
+    background-color: #dfdfdf;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 125px;
+    height: 100px;
+    display: inline;
+}
+
+.chamonatvali {
+    display: flex;
+    margin-left: -8px;
+    margin-top: -42px;
+    background-color: black;
+    padding-left: 50px;
+    width: -webkit-fill-available;
+    margin-bottom: 69px;
+}
+
+.HOMME{
+    margin-left: 82px;
+    margin-top: 61px;
+    color: white;
+}
+
+.HOME{
+    margin-left: 82px;
+    margin-top: 61px;
+    color: white;
+}
+
+.background{
+background-image: url(../images/background.jpg);
+height: 558px;
+margin-top: -4px;
+background-size: cover;
+}
+
+.ttext{
+    text-align: center;
+    font-size: 79px;
+    color: white;
+    padding-top: 238px;
+    margin-top: 5px;
+}
+
+.ttext2{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin-top: 5px;
+}
+
+#gsearch {
+    margin-left: 325px;
+    width: 477px;
+    height: 34px;
+    margin-top: 8px;
+}
+
+.login {
+    width: 35px;
+    height: 40px;
+    padding-left: 414px;
+}
+
+.log {
+    color: white;
+    margin-left: 79px;
+    margin-top: 55px;
+}
+
+.Geo {
+    width: 40px;
+    height: 28px;
+    background-color: white;
+    margin-left: -157px;
+    margin-top: 30px;
+}
+
+.gel {
+    margin-top: 60px;
+    margin-left: -37px;
+    color: white;
+}
+
+a {
+    margin-left: 70px;
+    text-decoration: none;
+    color: black;
+}
+
+#submit {
+    width: 33px;
+    height: 34px;
+}
+
+.one {
+    text-align: center;
+    font-size: 52px;
+}
+
+.cho {
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    margin-top: -8px;
+}
+
+.men,
+.women,
+.muscle,
+.fat,
+.abs,
+.beginner {
+    width: 265px;
+    height: 187px;
+    display: inline-block;
+}
+
+.men {
+    margin-left: 10px;
+}
+
+.women,
+.muscle,
+.abs,
+.beginner {
+    margin-left: 60px;
+}
+
+.workouts {
+    display: flex;
+    width: 1190px;
+    margin-left: 144px;
+}
+
+.text {
+    display: flex;
+    margin-left: 221px;
+    margin-top: 10px;
+}
+
+.work {
+    margin-left: 253px;
+    text-decoration: none;
+}
+
+.muc {
+    margin-left: 256px;
+    text-decoration: none;
+}
+
+.workouts2 {
+    margin-left: 153px;
+    margin-top: 80px;
+}
+
+.column {
+    display: flex;
+    margin-left: 316px;
+}
+
+.ab {
+    margin-left: 322px;
+}
+
+.beg {
+    margin-left: 278px;
+}
+
+.chamonatvali2 {
+    display: flex;
+    margin-left: -8px;
+    margin-top: 54px;
+    background-color: black;
+    padding-left: 115px;
+    margin-bottom: -8px;
+    height: 178px;
+    width: -webkit-fill-available;
+}
+
+.cs {
+    color: white;
+    margin-left: 74px;
+    margin-top: 31px;
+    font-size: 18px;
+}
+
+.columnn,
+.columnn2,
+.columnn3 {
+    width: 110px;
+    color: white;
+    font-size: 10px;
+    margin-top: 56px;
+}
+
+.columnn {
+    margin-left: -151px;
+}
+
+.columnn2 {
+    margin-left: -52px;
+}
+
+.columnn3 {
+    margin-left: -116px;
+    margin-top: -67px;
+}
+
+.chamonatvali3 {
+    display: flex;
+    margin-left: 398px;
+    margin-top: -173px;
+}
+
+.cs2 {
+    color: white;
+    font-size: 18px;
+    margin-left: 149px;
+    margin-top: 31px;
+}
+
+.chamonatvali4 {
+    display: flex;
+    color: white;
+}
+
+.cs3 {
+    color: white;
+    font-size: 18px;
+    margin-left: 730px;
+    margin-top: -88px;
+}
+
+.logo4 {
+    width: 125px;
+    height: 100px;
+    display: inline;
+    margin-top: 44px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 94px;
+    font-size: 47px;
+}
