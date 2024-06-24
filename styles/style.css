@@ -263,7 +263,7 @@ body {
       display: block !important;
     }
   
-    .left-side {
+    .right-side {
       display: none;
     }
   }
@@ -376,4 +376,8 @@ body {
     100%{
       transform: translate();
     }
+  }
+
+  .fa-burger{
+    margin-right: 70px;
   }
